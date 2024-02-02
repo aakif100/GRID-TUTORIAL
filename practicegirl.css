@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-color: beige;
+}
+
+
+.father{
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.2fr 1.5fr 1.2fr 0.8fr;
+    /* border:2px solid green; */
+    grid-template-areas: "navbar navbar navbar navbar"
+                         "sidebar main main main"
+                         "sidebar c1 c2 c3"
+                         "sidebar footer footer footer"
+
+}
+
+
+.box{
+    /* border: 2px solid green; */
+    margin: 2px;
+    text-align: center;
+    /* width: 100vw; */
+    border-radius: 5px;
+    transition: transform 0.5s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box:hover{
+    transform: scale(0.9,0.9);
+
+}
+
+
+
+.navbar{
+    grid-area: navbar;
+    background-color: cadetblue;
+
+}
+
+.sidebar{
+    grid-area: sidebar;
+    background-color: aquamarine;
+    transform:scale(1);
+    /* transition: transform 0.5s ease; */
+}
+
+.sidebar:hover{
+    /* transform: scale(0.9,0.9); */
+    /* transform: rotate(45deg); */
+
+}
+
+.main{
+    background-color: burlywood;
+    grid-area: main;
+    
+}
+
+.c1{
+    background-color: darkcyan;
+    grid-area: c1;
+}
+
+.c2{
+    background-color:thistle;
+    grid-area: c2;
+}
+
+.c3{
+        background-color: tan;
+        grid-area: c3;
+}
+.footer{
+    background-color: teal;
+    grid-area: footer;
+
+}
+
+
+
+@media(orientation:portrait){
+    .father{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.4fr 0.4fr 2.2fr 1.2fr 1.2fr 1.2fr 1fr;
+        grid-template-areas: "navbar"
+                              "sidebar"
+                              "main"
+                              "c1"
+                              "c2"
+                              "c3"
+                              "footer";
+    }
+
+
+}
