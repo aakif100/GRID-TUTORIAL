@@ -15,8 +15,7 @@ Explore the world of CSS Grid with this simple yet aesthetically pleasing websit
 
 ## Preview
 
-![Grid Layout Showcase Preview](images/grid_showcase_preview.gif)
-
+![grid tuto](https://github.com/aakif100/GRID-TUTORIAL/assets/137098447/832027e5-c881-491e-a5d9-4780b0bdeed8)
 ## Features
 
 - **Grid Layout Examples:** Explore various grid layouts to understand how to structure and organize content on a webpage.
@@ -40,6 +39,7 @@ Explore the world of CSS Grid with this simple yet aesthetically pleasing websit
 
 2. **Visualize Transition:**
    - The smooth transition adds an interactive and visually appealing aspect to the showcase.
+
 
 
 
