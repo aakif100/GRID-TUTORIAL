@@ -52,3 +52,14 @@ If you'd like to contribute to the Grid Layout Showcase, follow these steps:
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a pull request.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to explore the code, experiment with grid layouts, or contribute by adding new examples. If you have any questions or suggestions, don't hesitate to [open an issue](https://github.com/your-username/grid-layout-showcase/issues).
+
+Happy coding and designing! 🎨🚀   
