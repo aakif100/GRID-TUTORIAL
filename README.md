@@ -12,3 +12,13 @@ Explore the world of CSS Grid with this simple yet aesthetically pleasing websit
 - [How to Use](#how-to-use)
 - [Scaling Effect](#scaling-effect)
 - [Contributing](#contributing)
+
+## Preview
+
+![Grid Layout Showcase Preview](images/grid_showcase_preview.gif)
+
+## Features
+
+- **Grid Layout Examples:** Explore various grid layouts to understand how to structure and organize content on a webpage.
+- **Interactive Scaling Effect:** Experience a visually appealing scaling effect when hovering over the grid items.
+- **Responsive Design:** Witness the responsiveness of grid layouts on different screen sizes.
