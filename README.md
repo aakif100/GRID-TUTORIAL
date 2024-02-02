@@ -40,3 +40,15 @@ Explore the world of CSS Grid with this simple yet aesthetically pleasing websit
 
 2. **Visualize Transition:**
    - The smooth transition adds an interactive and visually appealing aspect to the showcase.
+
+
+
+## Contributing
+
+If you'd like to contribute to the Grid Layout Showcase, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Open a pull request.
