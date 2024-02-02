@@ -56,10 +56,9 @@ If you'd like to contribute to the Grid Layout Showcase, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to explore the code, experiment with grid layouts, or contribute by adding new examples. If you have any questions or suggestions, don't hesitate to [open an issue](https://github.com/your-username/grid-layout-showcase/issues).
+Feel free to explore the code, experiment with grid layouts, or contribute by adding new examples. If you have any questions or suggestions, don't hesitate to [open an issue](https://github.com/aakif100/grid-layout-showcase/issues).
 
 Happy coding and designing! 🎨🚀   
